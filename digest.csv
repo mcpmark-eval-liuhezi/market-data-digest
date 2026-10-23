@@ -1,0 +1,4 @@
+ticker,avg_close,max_close,min_close,pct_change
+AAPL,312.82,343.99,267.13,26.03
+MSFT,449.56,543.45,352.17,28.71
+NVDA,214.20,239.24,189.80,11.44
